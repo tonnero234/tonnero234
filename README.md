@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tonnero234
-- 👀 I’m interested in website development and blockchain technology
-- 🌱 I’m currently learning ... website development
-- 💞️ I’m looking to collaborate on ...website development using html and css
+- 👋 Hi, I am Noah Anthony
+- 👀 I am interested in cloud technology
+
+- 💞️ I’m looking to collaborate on ...cloud engineering
 - 📫 How to reach me ... tonynoah1@gmail.com
 
 <!---
